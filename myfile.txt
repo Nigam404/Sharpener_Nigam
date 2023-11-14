@@ -3,4 +3,6 @@ Hello Welcome to my GitHub account..
 
 This is my second commit inside main branch
 
-Noi I'm creating a new branch
+Now I'm creating a new branch
+
+This is second commit inside testing branch
